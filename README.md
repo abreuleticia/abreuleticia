@@ -6,7 +6,8 @@
 - 🤔 Próximas aprendizagens: **React, Angular, Vue e SASS**  
 - Experiência com **Metodologias Ágeis**
 - Idiomas:  
-**🇺🇲 Inglês - Nível Intermediário 
+**🇺🇲 Inglês - Nível Intermediário
+
 🇪🇸 Espanhol - Nível Básico.**
 
 ---
