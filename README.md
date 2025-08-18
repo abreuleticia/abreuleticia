@@ -5,7 +5,9 @@
 - 🧠 Conhecimento: **HTML5, CSS e JavaScript** 
 - 🤔 Próximas aprendizagens: **React, Angular, Vue e SASS**  
 - Experiência com **Metodologias Ágeis**
-- Idiomas:  **🇺🇲 Inglês - Nível Intermediário | 🇪🇸 Espanhol - Nível Básico.**
+- Idiomas:  
+**🇺🇲 Inglês - Nível Intermediário 
+🇪🇸 Espanhol - Nível Básico.**
 
 ---
 
