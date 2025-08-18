@@ -1,10 +1,14 @@
 # Olá! Eu sou a Letícia Carvalho 👋  
 
 - 🔭 Foco na área de **Análise de Dados**, mas apaixonada também por **Front-End**  
-- 🌱 Atualmente estudando: **Banco de Dados, Python, HTML5, CSS3 e JavaScript**  
+- 🌱 Atualmente estudando: **Banco de Dados, Python**  
+- 🧠 Conhecimento: **HTML5, CSS e JavaScript** 
 - 🤔 Próximas aprendizagens: **React, Angular, Vue e SASS**  
-- 😄 Pronomes: **ela/dela**  
+- Experiência com **Metodologias Ágeis**
+- Idiomas: 
 
+🇺🇲 Inglês - Nível Intermediário 
+🇪🇸 Espanhol - Nível Básico 
 ---
 
 ### 🚀 Um pouco sobre mim  
