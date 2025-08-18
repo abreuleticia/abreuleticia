@@ -24,9 +24,9 @@ Sou curiosa por tecnologia, gosto de transformar dados em insights e também ten
 
 ![Letícia GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abreuleticia&layout=compact&theme=radical)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=radical&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=abreuleticia&theme=radical&hide_border=false)
 
 </div>
 
