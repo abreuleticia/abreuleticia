@@ -22,7 +22,7 @@ Sou curiosa por tecnologia, gosto de transformar dados em insights e também ten
 
 <div align="center">
 
-![Letícia GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)  
+![Letícia GitHub stats](https://github-readme-stats.vercel.app/api?username=abreuleticia&show_icons=true&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abreuleticia&layout=compact&theme=radical)  
 
